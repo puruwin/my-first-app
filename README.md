@@ -1,5 +1,9 @@
 # MyFirstApp
 
+First "Angular - The Complete Guide" Udemy Course app.
+
+Credit: Maximilian Schwarzmüller
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
